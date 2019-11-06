@@ -17,7 +17,7 @@
   "dependencies": {
     "concurrently": "^4.1.2",
     "express": "^4.17.1",
-    "mongoose": "^5.7.3"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "express-pino-logger": "^4.0.0",
